@@ -32,9 +32,7 @@ I believe in **simplicity**, **intentionality**, and **high-quality coffee**. Mo
 ## ✉️ Get In Touch
 I’m always open to interesting conversations or collaborative projects.
 
-*   **Email:** [hello@yourdomain.com](mailto:hello@yourdomain.com)
-*   **Twitter/X:** [@YourHandle](https://twitter.com)
-*   **LinkedIn:** [in/YourName](https://linkedin.com)
+*   **Email:** naidavishad81@gmail.com
 
 ---
 <p align="center">
