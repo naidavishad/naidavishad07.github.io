@@ -1,0 +1,17 @@
+# Site settings
+title: Naida Vishad
+email: naidavishad81@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A classy blog for sharing insights and stories.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://naidavishad07.github.io" # the base hostname & protocol
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Personal Social Links (optional)
+author:
+  name: Naida Vishad
+  email: naidavishad81@gmail.com
